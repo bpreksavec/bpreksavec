@@ -1,16 +1,22 @@
-## Hi there 👋
+#Hi, my name is Benjamin
 
-<!--
-**bpreksavec/bpreksavec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Computer Science student at FERIT OSIJEK
 
-Here are some ideas to get you started:
+## About me
+*Interested in Java backend development
+*Learning Java, Spring Boot and SQL
+*Building projects to improve my programming skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+-Java
+-C
+-Git
+
+## Featured project
+
+*RunnerTracker*
+A Java application for tracking running workouts, distances, pace and personal records.(currently in development)
+
+## Contact
+-LinkedIn: www.linkedin.com/in/bepreksavec
+-Email: bepreksavec@gmail.com
