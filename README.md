@@ -4,28 +4,31 @@ Computer Science student at the Faculty of Electrical Engineering, Computer Scie
 
 ## About me
 
-- 💻 Interested in Java backend development
-- ☕ Currently learning Java, Spring Boot and SQL
+- 💻 Interested in full-stack web development
+- ☕ Currently learning C#, SQL, JS
 - 🏃 Building projects related to my interests
 - 📚 Improving my knowledge of algorithms, data structures and software development
-
-## Technologies
 
 ### Programming Languages
 - Java
 - C
 - SQL
+- C#
 
 ### Tools & Technologies
 - Git
 - GitHub
 - IntelliJ IDEA
+- Visual Studio
+- Postman
+- sourcetree
+- DBeaver
 
-## Featured Project
+## Featured Projects
 
 ### 🏃 RunnerTracker
 
-A Java application for tracking running workouts, distances, pace and personal records.
+A application for tracking running workouts, distances, pace and personal records.
 
 Currently in development with plans for:
 - workout management
